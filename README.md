@@ -30,4 +30,4 @@ This repository is organized by domain rather than date:
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/daily_ML.git](https://github.com/YOUR_USERNAME/daily_ML.git)
+   git clone [https://github.com/Dakioko/ML.git](https://github.com/Dakioko/ML.git)
